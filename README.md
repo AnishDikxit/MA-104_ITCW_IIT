@@ -27,7 +27,7 @@ You do not have permission to edit this TA repository directly. You need to make
 We have provided a starter notebook with instructions for your Python code. 
 1. Click the magical badge below to open the notebook directly in Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[YOUR-USERNAME]/[YOUR-REPO-NAME]/blob/main/Lab1_Starter.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AnishDikxit/MA-104_ITCW_IIT/blob/main/Lab1_Python.ipynb)
 
 *(Note: Sign in with your university Google account if prompted).*
 
